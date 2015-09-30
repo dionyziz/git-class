@@ -238,6 +238,11 @@ table {
   margin-bottom: 20px;
   text-align: left;
  }
+ 
+ table#logos {
+   border: none;
+   border-collapse: collapse;
+ }
 
 th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -250,6 +255,10 @@ td {
   padding: 10px;
   border: 1px solid #373737;
  }
+ 
+td#logos {
+  border: none;
+}
 
 form {
   background: #f2f2f2;
