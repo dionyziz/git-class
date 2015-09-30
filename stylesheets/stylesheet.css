@@ -259,6 +259,7 @@ td {
 td#logos {
   border: none;
   text-align: center;
+  vertical-align: middle;
 }
 
 form {
