@@ -258,6 +258,7 @@ td {
  
 td#logos {
   border: none;
+  text-align: center;
 }
 
 form {
